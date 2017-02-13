@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/plane.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/day.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/night.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/sunrise.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/sunset.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/clouds_day.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/clouds_night.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/clouds_sunrise.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/clouds_sunset.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/grass_day.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/grass_night.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/grass_sunrise.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/bg/grass_sunset.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/intro/1.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/intro/2.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/intro/3.png</File>
+    <File>C:/Users/Paul/Documents/Visual Studio 2015/Projects/FlightGame/FlightGame/Content/intro/4.png</File>
+  </SourceFiles>
+</SourceFileCollection>
